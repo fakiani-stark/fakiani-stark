@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Eduardo Fakiani</h1>
 <h3 align="center">A passionate backend developer from Brazil</h3>
 
+<br>
+
 - 🔭 I’m currently working for **Starkbank**
 
 - 📫 How to reach me **eduardo.fakiani@starkbank.com**
